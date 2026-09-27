@@ -1,3 +1,7 @@
+This GitHub repository contains documentation only.
+
+The full source code is hosted on Codeberg [[https://codeberg.org/mamila/GearLane](https://codeberg.org/mamila/QualityLane), an EU-based hosting service, chosen for data sovereignty and security considerations.
+
 # GearLane: An Android DevOps Toolbox
 
 A portable, reusable automation suite for Android projects using Fastlane and Bash scripts.
